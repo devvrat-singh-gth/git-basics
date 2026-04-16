@@ -1,4 +1,4 @@
-# Full-Stack Repo 🚀
+# Full-Stack with Git Repo 🚀
 
 This repository is a simple workspace for my full-stack learning journey.
 It currently focuses on building a basic understanding of development tools and concepts, starting with Git.
