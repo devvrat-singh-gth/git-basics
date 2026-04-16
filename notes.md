@@ -12,7 +12,7 @@
 
 ```bash
 git config --global user.name "devvrat-singh-gth"
-git config --global user.email "devvratsinghbanga2005@gmail.com"
+git config --global user.email "dexxxxxtsxxxxxxxxxxxxx@gmail.com"
 ```
 
 ### 4. Basic Git Workflow
